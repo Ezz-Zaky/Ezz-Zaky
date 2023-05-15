@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ezz-Zaky
-- 👀 I’m interested in Data Science and App development 
-- 🌱 I’m currently learning REACT
+- 👀 I’m interested in Artificial Intelligence and App development 
+- 🌱 I’m currently learning advanced JavaScript
 - 📫 How to reach me: email: ezzuldin.zaky@gmail.com
 
 <!---
